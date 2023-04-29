@@ -3,7 +3,7 @@
 
 This is a simple linked list library written in C. It provides a basic implementation of a linked list data structure, along with several common operations on linked lists.
 
-## Installation
+## How to use it?
 
 To use this library in your own C project, simply include the `linked_list.h` header file in your source code and link against the `linked_list.c` implementation file.
 

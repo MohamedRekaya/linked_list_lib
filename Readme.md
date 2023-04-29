@@ -14,7 +14,9 @@ int main() {
     // Example usage of linked list library
     return 0;
 }
-```
+``
+## Test functions
+You can test all the library functions, by running the commnad `make run`, you need to have a GCC compiler
 
 ## Functions
 

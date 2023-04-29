@@ -4,7 +4,7 @@
  *
  * This library provides functions for creating and manipulating a singly linked list
  *
- * Author: Mohamed Rekaya ft. ChatGPT
+ * Author: Mohamed Rekaya
  * Date: 2023-04-28
  */
 

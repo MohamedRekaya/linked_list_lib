@@ -18,7 +18,7 @@ int main() {
 ## Test library
 You can test all the library functions, by running the commnad `make run`, you need to have a GCC compiler.
 
-## Functions
+## Library Functions
 
 ### `List* createList(int value)`
 

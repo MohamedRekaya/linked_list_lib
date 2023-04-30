@@ -24,31 +24,31 @@ You can test all the library functions, by running the commnad `make run`, you n
 
 Create a new List with the specified integer value.
 
-### `void appendList(Node** headRef, int value)`
+### `void appendList(List** headRef, int value)`
 
 Append a new node with the specified integer value to the end of the linked list.
 
-### `void insertList(Node** headRef, int value, int position)`
+### `void insertList(List** headRef, int value, int position)`
 
 Insert a new node with the specified integer value at the specified position in the linked list.
 
-### `void removeList(Node** headRef, int data)`
+### `void removeList(List** headRef, int data)`
 
 Delete the first node with the specified integer value from the linked list.
 
-### `void clearList(Node** headRef)`
+### `void clearList(List** headRef)`
 
 Making linked list empty.
 
-### `int countList(Node* head)`
+### `int countList(List* head)`
 
 Get the number of nodes in the linked list.
 
-### `void printList(Node* node)`
+### `void printList(List* node)`
 
 Print the integer values of all nodes in the linked list.
 
-### `void reverseList(Node** headRef)`
+### `void reverseList(List** headRef)`
 
 Reverse the order of the nodes in the linked list.
 
